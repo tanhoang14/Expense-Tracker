@@ -11,7 +11,7 @@ options.UseSqlServer(builder.Configuration.GetConnectionString("DevConnection"))
 var app = builder.Build();
 
 //Register Syncfusion license
-Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("Ngo9BigBOggjHTQxAR8/V1NGaF1cWGhAYVFyWmFZfV1gfF9GYlZRQWY/P1ZhSXxQdk1hXH1ecHJXQWhfWUQ=");
+Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("Mgo+DSMBMAY9C3t2V1hhQlJAfV5AQmBIYVp/TGpJfl96cVxMZVVBJAtUQF1hSn5bdExjWXtXcHRcR2Vc");
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
