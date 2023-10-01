@@ -6,5 +6,5 @@
 
 ![image](https://github.com/tanhoang14/Expense-Tracker/assets/89440534/aae89175-5b66-403e-aa5f-2666a86443e1)
 
-Tech Stack
+Tech Stac k
 ASP.NET
