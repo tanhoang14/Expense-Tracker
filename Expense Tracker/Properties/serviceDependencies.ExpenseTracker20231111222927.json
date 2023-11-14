@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Web/sites/ExpenseTracker20231111222927/providers/Microsoft.ServiceLinker/linkers/ConnectionStringsDevConnection_FA6565B067",
+      "secretStore": "AzureAppSettings",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/expensetrackerdbservers/databases/Expense Tracker_db",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:DevConnection",
+      "dynamicId": null
+    }
+  }
+}
